@@ -38,6 +38,7 @@
     "@sanity/image-url": "1",
     "@sanity/vision": "3",
     "query-string": "^8.1.0",
-    "sanity": "^3.0.0"
+    "sanity": "^3.0.0",
+    "sass": "^1.68.0"
   }
 }
